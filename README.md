@@ -6,6 +6,6 @@
       <h1># hello-world</h1>
     </header>
 My first Repository
-i start to use git, i hope it will be helpfull and fun to learn
+i start to use git, i hope it will be helpfull and fun to learn <br>
 Next step???
   </body>
